@@ -9,39 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = c:\Users\s00se\OneDrive\Masaüstü\WebDevelopment\Ceng382_23_24_S_201911043\RazorPagesMovie\
+build_property.ProjectDir = C:\Users\s00se\OneDrive\Masaüstü\WebDevelopment\Ceng382_23_24_S_201911043\RazorPagesMovie\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\s00se\OneDrive\Masaüstü\WebDevelopment\Ceng382_23_24_S_201911043\RazorPagesMovie
+build_property.MSBuildProjectDirectory = C:\Users\s00se\OneDrive\Masaüstü\WebDevelopment\Ceng382_23_24_S_201911043\RazorPagesMovie
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Error.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Index.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Privacy.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/newPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbmV3UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/_ViewImports.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/_ViewStart.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
+[C:/Users/s00se/OneDrive/Masaüstü/WebDevelopment/Ceng382_23_24_S_201911043/RazorPagesMovie/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tg5po7urw9
