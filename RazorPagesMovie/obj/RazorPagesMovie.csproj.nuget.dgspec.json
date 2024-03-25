@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectPath": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "packagesPath": "C:\\Users\\s00se\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\obj\\",
+        "outputPath": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s00se\\AppData\\Roaming\\NuGet\\NuGet.Config"

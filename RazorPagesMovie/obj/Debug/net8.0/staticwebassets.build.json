@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TPhTOSKAGDfFgES0RCvg/bdI5NUP0KVfA7FfRiHgK+Y=",
+  "Hash": "OmRa5hcBsDeiRatLU1cAJu9iIhQhBDyeMoUpu52/tdk=",
   "Source": "RazorPagesMovie",
   "BasePath": "_content/RazorPagesMovie",
   "Mode": "Default",
@@ -131,6 +131,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\calculateSum.js",
+      "SourceId": "RazorPagesMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\",
+      "BasePath": "_content/RazorPagesMovie",
+      "RelativePath": "js/calculateSum.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\calculateSum.js"
+    },
+    {
       "Identity": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\dashboard.js",
       "SourceId": "RazorPagesMovie",
       "SourceType": "Discovered",
@@ -167,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\toggleElements.js",
+      "SourceId": "RazorPagesMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\",
+      "BasePath": "_content/RazorPagesMovie",
+      "RelativePath": "js/toggleElements.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\toggleElements.js"
     },
     {
       "Identity": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

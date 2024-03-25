@@ -21,12 +21,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\calculateSum.js",
+      "PackagePath": "staticwebassets\\js\\calculateSum.js"
+    },
+    {
       "Id": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\js\\dashboard.js"
     },
     {
       "Id": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\js\\toggleElements.js",
+      "PackagePath": "staticwebassets\\js\\toggleElements.js"
     },
     {
       "Id": "c:\\Users\\s00se\\OneDrive\\Masaüstü\\WebDevelopment\\Ceng382_23_24_S_201911043\\RazorPagesMovie\\wwwroot\\lib\\bootstrap\\LICENSE",
